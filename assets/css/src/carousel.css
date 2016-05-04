@@ -47,13 +47,13 @@ body {
   z-index: 10;
 }
 .carousel-caption h1{
-    font-size: 16px;
+    font-size: 14px;
     color:white;
 }
 
 .carousel-caption p {
     margin-bottom: 20px;
-    font-size: 14px;
+    font-size: 12px;
     line-height: 1.4;
     color:yellow;
   }
